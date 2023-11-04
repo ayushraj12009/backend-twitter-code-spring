@@ -7,7 +7,7 @@ This project is a social media platform (Twiter Clone) with a range of features,
 Fronted Repo: https://github.com/ayushraj12009/twitter-clone .\
 React.\
 Redux for state management.\
-Formik for efficient form handling.\
+Formik for efficient form handling.
 
 ### `Backend Technologies:`
 
